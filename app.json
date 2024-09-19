@@ -1,9 +1,9 @@
 {
-  "name":"MASKSER MD UPDATE",
+  "name":"MASKSER-MD",
   "description":"Best WhatsApp Bot Developed By MASKSER Contact Us 255656128735 Thank you for choose MASKSER MD",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.imgur.com/Q3W5yrQ.jpeg",
-  "repository":"https://github.com/Fred1e/Dullah-Md",
+  "repository":"https://github.com/ENOXKILLER/MASKSER-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"MASKSER-MD 🌟",
+      "value":"MASKSER-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.imgur.com/Q3W5yrQ.jpeg,https://i.imgur.com/CnmAzqx.jpeg,https://i.imgur.com/iWUeEyh.jpeg",
+      "value":"https://i.imgur.com/Q3W5yrQ.jpeg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MASKSER👊"
+    "value": "Mr masker"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(example of Tanzania '255')",
     "required":false,
-    "value": "255656128735"
+    "value": "255656128735,255762190568"
 	  
   },
     "WARN_COUNT":
